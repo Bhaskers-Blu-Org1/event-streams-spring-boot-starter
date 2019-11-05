@@ -1,0 +1,4 @@
+# Auto Configure
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.ibm.boot.autoconfiguration.event.streams.EventStreamsAutoConfiguration,\
+  org.springframework.boot.autoconfigure.kafka.KafkaAutoConfiguration
