@@ -30,3 +30,6 @@
 ### build output ###
 release.properties
 pom.xml.releaseBackup
+
+### Mac stuff ###
+.DS_Store
