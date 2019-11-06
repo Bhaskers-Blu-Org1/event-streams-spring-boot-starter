@@ -26,3 +26,7 @@
 
 ### VS Code ###
 .vscode/
+
+### build output ###
+release.properties
+pom.xml.releaseBackup
