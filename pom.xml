@@ -11,7 +11,7 @@
 
     <groupId>com.ibm.cloud</groupId>
     <artifactId>event-streams-spring-boot-starter</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <licenses>
@@ -34,24 +34,6 @@
         <version.maven-javadoc-plugin>3.1.1</version.maven-javadoc-plugin>
         <version.maven-gpg-plugin>1.6</version.maven-gpg-plugin>
         <version.maven-release-plugin>2.5.3</version.maven-release-plugin>
-
-        <!--        <version.maven-compiler-plugin>3.6.0</version.maven-compiler-plugin>-->
-        <!--        <version.maven-surefire-plugin>2.19.1</version.maven-surefire-plugin>-->
-        <!--        <version.maven-scm-provider-gitexe>1.9.5</version.maven-scm-provider-gitexe>-->
-        <!--        <version.jacoco-maven-plugin>0.7.7.201606060606</version.jacoco-maven-plugin>-->
-        <!--        <version.coveralls-maven-plugin>4.3.0</version.coveralls-maven-plugin>-->
-        <!--        <version.maven-site-plugin>3.5.1</version.maven-site-plugin>-->
-        <!--        <version.reflow-velocity-tools>1.1.1</version.reflow-velocity-tools>-->
-        <!--        <version.maven-pmd-plugin>3.0.1</version.maven-pmd-plugin>-->
-        <!--        <version.findbugs-maven-plugin>3.0.1</version.findbugs-maven-plugin>-->
-        <!--        <version.maven-changelog-plugin>2.3</version.maven-changelog-plugin>-->
-        <!--        <version.taglist-maven-plugin>2.4</version.taglist-maven-plugin>-->
-        <!--        <version.maven-project-info-reports-plugin>2.8</version.maven-project-info-reports-plugin>-->
-        <!--        <version.maven-checkstyle-plugin>2.10</version.maven-checkstyle-plugin>-->
-        <!--        <version.cobertura-maven-plugin>2.6</version.cobertura-maven-plugin>-->
-        <!--        <version.maven-surefire-report-plugin>2.18.1</version.maven-surefire-report-plugin>-->
-        <!--        <version.maven-jxr-plugin>2.5</version.maven-jxr-plugin>-->
-        <!--        <version.maven-deploy-plugin>2.8.2</version.maven-deploy-plugin>-->
     </properties>
 
     <dependencies>
